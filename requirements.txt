@@ -2,4 +2,4 @@ aylien-apiclient==0.7.0
 httplib2==0.15.0
 pip==19.3.1
 setuptools==42.0.2
-wheel==0.33.6
+wheel==0.38.1
